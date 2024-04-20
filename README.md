@@ -1,4 +1,5 @@
-# SQL-Data-exploration
-Hi,
-This is an Data Exploration through SQL on covid reports.
+# PROJECTS ON DATA ANALYSIS
+
+WELCOME !
+Thank you fro visiting my project.Here i post my DATA ANALYSIS projects.
 thank you.
